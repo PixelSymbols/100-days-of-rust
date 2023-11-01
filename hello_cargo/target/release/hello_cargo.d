@@ -1,0 +1,1 @@
+D:\Documents\Programming\Rust\Learning\hello_cargo\target\release\hello_cargo.exe: D:\Documents\Programming\Rust\Learning\hello_cargo\src\main.rs
